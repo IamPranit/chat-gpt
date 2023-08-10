@@ -26,7 +26,8 @@ cd chat-gpt
    - Sign up for an account on the [OpenAI website](https://openai.com) if you haven't already.
    - Generate an API key from your OpenAI account dashboard.
    - Create a new file `.env` in the project directory.
-   - Paste your API key inside the `.env` file as `OPENAI_API_KEY=<API_KEY>` and `PORT=<DESIRED_PORT>`.
+   - Paste your API key inside the `.env` file as `OPENAI_API_KEY=<API_KEY>`.
+   - You can add the port to listen on in the `.env` file itself as `PORT=<DESIRED_PORT>`.
 
 3. Install and start:
 
